@@ -8,7 +8,7 @@
 - 📲 Backend Developer
 - 💡 Creative problem solver with a passion for innovation
 - ☁️ Specializing in cloud-based services
-- ❤️ Driven by my passion for developing technologies that make a difference in people's lives.
+- ❤️ Driven by my passion for developing technologies that make a difference in people's lives
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
