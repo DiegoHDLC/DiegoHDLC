@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://aristi.dev">Diego Herrera</a> 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://i.postimg.cc/jddpKptz/Diego-Herrera.png)">
+<img src="https://i.imgur.com/weNbhGZ.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 
